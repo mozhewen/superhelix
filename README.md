@@ -1,6 +1,6 @@
 # superhelix
 
-Draw a superhelix by analytical and numerical methods
+Draw a superhelix using analytical and numerical methods
 
 ## Results
 
